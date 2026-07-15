@@ -2,11 +2,7 @@
     margin: 0;
     padding: 0;
 }
-    .you{
-        padding: 10px;
-        width: 120px;
-        border-radius: 10px;
-        
-    }
-
+ header{
+    box-shadow: 10 white solid;
+ }
   
