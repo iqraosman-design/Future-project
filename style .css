@@ -6,4 +6,7 @@ body{
     color: aliceblue;
     block-size: 170;
 }
+header{
+    background-origin: padding-box;
+}
   
